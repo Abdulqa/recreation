@@ -1,13 +1,13 @@
-# Privacy Policy for Notification Vault
+# Privacy Policy for Notivault
 
-**App name:** Notification Vault
+**App name:** Notivault
 **Developer:** Recreation Technologies Team
 **Effective date:** 28 August 2026
 **Last updated:** 28 August 2026
 
-This Privacy Policy explains how the **Recreation Technologies Team** ("we", "us", "our") handles information in connection with the **Notification Vault** mobile application (the "App"). Notification Vault keeps a private, on-device history of the notifications your device receives so you can search, filter, and revisit them. We designed the App to collect as little information as possible.
+This Privacy Policy explains how the **Recreation Technologies Team** ("we", "us", "our") handles information in connection with the **Notivault** mobile application (the "App"). Notivault keeps a private, on-device history of the notifications your device receives so you can search, filter, and revisit them. We designed the App to collect as little information as possible.
 
-> **Summary:** Notification Vault does **not** require an account or sign-in. The App has **no internet permission** and is technically incapable of uploading anything. Your notification history is stored only on your own device and is never sent to us or any third party. There are no ads, no analytics, and no third-party tracking SDKs.
+> **Summary:** Notivault does **not** require an account or sign-in. The App has **no internet permission** and is technically incapable of uploading anything. Your notification history is stored only on your own device and is never sent to us or any third party. There are no ads, no analytics, and no third-party tracking SDKs.
 
 ## 1. Information We Process
 
@@ -65,7 +65,7 @@ The App requests **no** internet, storage, location, contacts, or other sensitiv
 
 ## 7. Children's Privacy
 
-Notification Vault is not directed to children and does not knowingly collect personal information from children. It is a utility app intended for general audiences aged 18+.
+Notivault is not directed to children and does not knowingly collect personal information from children. It is a utility app intended for general audiences aged 18+.
 
 ## 8. On-Device Assistant
 
@@ -84,4 +84,4 @@ Email: recreationtechnologies@gmail.com
 
 ---
 
-© 2026 Recreation Technologies Team. All rights reserved. Notification Vault is an independent application and is not affiliated with Google LLC or any notification-sending service.
+© 2026 Recreation Technologies Team. All rights reserved. Notivault is an independent application and is not affiliated with Google LLC or any notification-sending service.
